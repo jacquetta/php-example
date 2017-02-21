@@ -27,4 +27,4 @@
  </div><!--team-members-->
 
 <hr>
- <?php include('includes/footer.php');
+ <?php include('includes/footer.php');?>
